@@ -1,4 +1,4 @@
-# 🧵 Batik Cost Management App
+# 🧵 Batik Production Cost Management App
 
 A web application that helps batik producers calculate the true cost of production, from raw materials to waste disposal, and keep track of material stock in one place.
 
